@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Local development
+vue-helloworld/node_modules/
+vue-helloworld/dist/
+vue-helloworld/.vite/
