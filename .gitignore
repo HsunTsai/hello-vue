@@ -1,0 +1,9 @@
+# Node
+node_modules/
+# Build output
+dist/
+/docs_backup_* 
+# OS
+.DS_Store
+# Env
+.env
