@@ -5,6 +5,8 @@ This repository contains a minimal Vite + Vue 3 + TypeScript project.
 - Source: vue-helloworld/
 - GitHub Pages site served from: `main` branch -> `/docs` folder
 
+This project was created by OpenClaw.
+
 Development:
 
 1. Install dependencies
