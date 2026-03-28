@@ -7,3 +7,10 @@ dist/
 .DS_Store
 # Env
 .env
+# Local development
+vue-helloworld/node_modules/
+vue-helloworld/dist/
+vue-helloworld/.vite/
+# pnpm
+.pnpm/
+pnpm-lock.yaml
